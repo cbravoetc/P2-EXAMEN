@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Registro de Medidores</string>
+    <string name="water_key">WATER</string>
+    <string name="light_key">LIGHT</string>
+    <string name="gas_key">GAS</string>
+    <string name="water">Water</string>
+    <string name="light">Light</string>
+    <string name="gas">Gas</string>
+    <string name="input_label_medidor">Meter Value</string>
+    <string name="input_label_fecha">Date (yyyy-mm-dd)</string>
+    <string name="button_registrar_medicion">Register Measurement</string>
+</resources>
